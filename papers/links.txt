@@ -1,0 +1,10 @@
+Training videos
+The videos are available for download here: https://s3-us-west-1.amazonaws.com/emogifs/CowenKeltnerEmotionalVideos.zip
+
+The mean ratings are available for download here: https://s3-us-west-1.amazonaws.com/emogifs/CowenKeltnerEmotionalVideos.csv
+
+20+ Emotion Recognition APIs That Will Leave You Impressed, and Concerned
+https://nordicapis.com/20-emotion-recognition-apis-that-will-leave-you-impressed-and-concerned/
+
+Some GitHub repositories
+https://github.com/isseu/emotion-recognition-neural-networks
